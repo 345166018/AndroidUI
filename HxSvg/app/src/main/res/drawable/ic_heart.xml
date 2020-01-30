@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+    <path
+        android:name="arc1"
+        android:pathData="M952.64,501.12l-49.28,-41.28A245.44,245.44 0,0 0,960 304a240.64,240.64 0,0 0,-423.68 -155.52l-24.32,29.12 -24.32,-29.12A240.64,240.64 0,0 0,64 304a245.44,245.44 0,0 0,56.64 155.84l-49.28,41.28A307.52,307.52 0,0 1,0 304a304.64,304.64 0,0 1,512 -222.4,304.64 304.64,0 0,1 512,224 307.52,307.52 0,0 1,-71.36 195.52z"
+        android:strokeWidth="5"
+        android:strokeColor="#d81e06"
+        android:strokeLineCap="round" />
+    <path
+        android:name="arc2"
+        android:pathData="M485.12,754.56l-106.24,-230.08 -38.4,83.52H0v-64h299.52l79.04,-172.48 99.2,214.08 128.96,-361.92L725.12,544H1024v64H680.32L608,411.2l-122.88,343.36z"
+        android:strokeWidth="5"
+        android:strokeColor="#d81e06"
+        android:strokeLineCap="round" />
+    <path
+        android:name="arc3"
+        android:pathData="M558.72,1024h-93.44l-265.6,-314.88 48.64,-41.28 246.4,292.16h34.56l246.08,-292.16 48.96,41.28 -265.6,314.88z"
+        android:strokeWidth="5"
+        android:strokeColor="#d81e06"
+         />
+</vector>

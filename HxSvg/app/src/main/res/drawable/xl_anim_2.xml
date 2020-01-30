@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--把控制动画文件 和矢量图文件 绑定的文件--><!--android:drawable="@drawable/search_bar" 设置矢量图文件-->
+<!-- 属性矢量动画 -->
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_heat"
+    tools:targetApi="lollipop">
+    <!-- android:drawable="@drawable/searchbar"  矢量图片 -->
+
+    <!-- 指定动画 -->
+    <target
+        android:animation="@animator/anim_searchbar"
+        android:name="arc2"/>
+
+
+</animated-vector>
